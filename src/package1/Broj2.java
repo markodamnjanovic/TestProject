@@ -21,7 +21,7 @@ public class Broj2 {
 
     static class BrojStatic {
         public static void staticMethod() {
-            System.out.println("AAdsaAAAAAAA");
+            System.out.println("AAdsaAAAdsadaAAAA");
         }
     }
 
