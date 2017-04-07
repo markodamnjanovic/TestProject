@@ -22,7 +22,7 @@ public class Broj2 {
     static class BrojStatic {
         public static void staticMethod() {
             System.out.println();
-            System.out.println("AAdsadsadsAAAAAAA");
+            System.out.println("1");
         }
     }
 
