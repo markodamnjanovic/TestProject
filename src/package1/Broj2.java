@@ -23,7 +23,6 @@ public class Broj2 {
         public static void staticMethod() {
             int a = 1;
             int b = 2;
-            int c = 3;
         }
     }
 
